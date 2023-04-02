@@ -2,7 +2,7 @@
 //  boj_1152.cpp
 //  20230318
 //
-//  Created by 김예은 on 2023/03/18.
+//  Created by 김예은 on 2023/04/02.
 //
 
 #include <iostream>
